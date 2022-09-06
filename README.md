@@ -13,5 +13,5 @@ https://github.com/ferreiraluana/PIBIC-final/blob/main/script.ipynb
 * [Histograma do Coeficiente de Dice](https://github.com/ferreiraluana/PIBIC-final/blob/main/plots/dice_histogram.png)
 * [Model Accuracy and Model Loss](https://github.com/ferreiraluana/PIBIC-final/blob/main/plots/plot.png)
 ---
-
+![https://github.com/ferreiraluana/PIBIC-final/blob/main/Results/paciente72.png]
 
